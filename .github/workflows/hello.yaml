@@ -4,5 +4,5 @@ jobs:
  build:
   runs on: ubuntu-latest
   steps:
-   - name: sushobhit jain
+   - name: Print message
      runs: echo "Hello! world"
